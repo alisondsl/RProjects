@@ -1,7 +1,7 @@
 # Conclusão
 
 Esta pesquisa teve-se como finalidade verificar o ganho de peso em ratos quando medicados com aditivos que servem para o aumento de peso. O ensaio foi designado com 30 ratos
-divididos igualmente em três grupos de medicamentos, sendo estes: controle (1), tiouracil (2) e tiroxina(3) dentro de cinco semanas. Durante a pesquisa, o grupo (3)
+divididos igualmente em três grupos de medicamentos, sendo estes: controle (1), tiouracil (2) e tiroxina (3) dentro de cinco semanas. Durante a pesquisa, o grupo (3)
 teve a perda de três animais (causa não identificada). Assim, concluiu-se a pesquisa com apenas 27 ratos.
 
 Durante o estudo, conseguimos verificar através dos gráficos realizados que todos os grupos tiveram como resposta o aumento de peso durante cada semana, ou seja, 
