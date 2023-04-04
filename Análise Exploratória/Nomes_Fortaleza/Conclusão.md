@@ -1,4 +1,4 @@
-# Conclusão da pesquisa 
+# Conclusão
 
 Esta pesquisa tem como finalidade descobrir os nomes mais populares do munícipio de Fortaleza, localizado no estado do Ceará. Os dados são de origem do Censo Demográfico do IBGE do ano de 2010.
 
